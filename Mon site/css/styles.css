@@ -1,0 +1,26 @@
+
+nav.menu-nav ul li{
+display: inline-block;
+font-size: 50Px;
+}
+
+p.Bienvenue{
+	color: purple;
+	font-size: 50px;
+
+}
+
+p.Pays{
+	color: red;
+	font-size: 40px;
+}
+
+body{
+	background-color: pink
+}
+
+h1.headline{
+	font-size: 85px;
+	padding: 105px;
+}
+
